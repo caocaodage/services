@@ -8,4 +8,4 @@ if($.browser.mozilla||$.browser.opera)
 		function UnloadHandler() {
 				window.removeEventListener('beforeunload', UnloadHandler, false);
 		}
-})()/** md5:2MKfT1CetL/nCV5kU2F2TFU7thC+SHYoSXZm6Cwck980b7Nfx1ME+j7YX4XdSiJlomwyJga13FZypHGdLrPpAUHbHs2BpGLLT/cAU6dLr+cVI4ri1QTJC3OmBinufFSfu2SGPQBxdog/RwUzxAOpvboYs8dEqKToQOTkprxNxgg=**/
+})()/** md5:2MKfT1CetL/nCV5kU2F2TFU7thC+SHYoSXZm6Cwck980b7Nfx1ME+j7YX4XdSiJlxVdwpW0DGXSa8qN2+S/HKEHbHs2BpGLLT/cAU6dLr+cVI4ri1QTJC3OmBinufFSfu2SGPQBxdog/RwUzxAOpvboYs8dEqKToQOTkprxNxgg=**/
