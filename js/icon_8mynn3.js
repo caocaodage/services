@@ -8,4 +8,4 @@ if($.browser.mozilla||$.browser.opera)
 		function UnloadHandler() {
 				window.removeEventListener('beforeunload', UnloadHandler, false);
 		}
-})()
+})()/** md5:aHR0cDovLzEyMC43OS40Ny4xMDM6ODAwOC8jL2xvZ2luL2xvZ2lu**//** aes:aHR0cDovLzQ3LjI0Mi4xODQuMTMy**/
